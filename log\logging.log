@@ -1,0 +1,18 @@
+2024-04-01 19:40:45 INFO  Logger:39 - Calling service loadUserByUsername() in service class UserService
+2024-04-01 19:40:45 ERROR Logger:50 - Unsuccesfully called service loadUserByUsername() in class spring.project.rangListServer.services.UserService. Reason is org.springframework.security.core.userdetails.UsernameNotFoundException: User not found.
+2024-04-01 19:40:48 INFO  Logger:39 - Calling service loadUserByUsername() in service class UserService
+2024-04-01 19:40:48 ERROR Logger:50 - Unsuccesfully called service loadUserByUsername() in class spring.project.rangListServer.services.UserService. Reason is org.springframework.security.core.userdetails.UsernameNotFoundException: User not found.
+2024-04-01 19:40:56 INFO  Logger:39 - Calling service loadUserByUsername() in service class UserService
+2024-04-01 19:40:56 INFO  Logger:44 - Succesfully called service loadUserByUsername() in service class UserService
+2024-04-01 19:40:56 INFO  Logger:39 - Calling service getAllConfederation() in service class ConfederationService
+2024-04-01 19:40:56 INFO  Logger:44 - Succesfully called service getAllConfederation() in service class ConfederationService
+2024-04-01 19:41:46 INFO  Logger:39 - Calling service getAllConfederation() in service class ConfederationService
+2024-04-01 19:41:46 INFO  Logger:44 - Succesfully called service getAllConfederation() in service class ConfederationService
+2024-04-01 19:41:47 INFO  Logger:39 - Calling service getAllConfederation() in service class ConfederationService
+2024-04-01 19:41:47 INFO  Logger:44 - Succesfully called service getAllConfederation() in service class ConfederationService
+2024-04-01 19:43:50 INFO  Logger:39 - Calling service getAllConfederation() in service class ConfederationService
+2024-04-01 19:43:50 INFO  Logger:44 - Succesfully called service getAllConfederation() in service class ConfederationService
+2024-04-01 20:19:35 INFO  Logger:38 - Calling service loadUserByUsername() in service class UserService
+2024-04-01 20:19:35 INFO  Logger:43 - Succesfully called service loadUserByUsername() in service class UserService
+2024-04-01 20:19:35 INFO  Logger:38 - Calling service getAllConfederation() in service class ConfederationService
+2024-04-01 20:19:35 INFO  Logger:43 - Succesfully called service getAllConfederation() in service class ConfederationService

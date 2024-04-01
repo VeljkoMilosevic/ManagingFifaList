@@ -1,0 +1,2 @@
+2024-04-01 19:40:45 ERROR Logger:50 - Unsuccesfully called service loadUserByUsername() in class spring.project.rangListServer.services.UserService. Reason is org.springframework.security.core.userdetails.UsernameNotFoundException: User not found.
+2024-04-01 19:40:48 ERROR Logger:50 - Unsuccesfully called service loadUserByUsername() in class spring.project.rangListServer.services.UserService. Reason is org.springframework.security.core.userdetails.UsernameNotFoundException: User not found.
